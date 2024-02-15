@@ -83,7 +83,7 @@
 28. ISO 8402:1994. Управление качеством и обеспечение качества – Словарь. Второе издание.
 29. ISO 9000-3:1997. Стандарты в области административного управления качеством и обеспечения качества. Часть 3. Руководящие указания по применению ISO 9001 при разработке, поставке, монтаже и обслуживании программного обеспечения. Второе издание.      
 
-## Стандарты IEEE в области IT  
+## Стандарты IEEE в области IT.  
 
 1. IEEE Std 610.12-1990, IEEE Standard Glossary of Software Engineering Terminology
 2. IEEE Std 730-1989, IEEE Standard for Software Quality Assurance Plans (ANSI)
@@ -120,7 +120,17 @@
 33. IEEE Std 1348-1995, IEEE Recommended Practice for the Adoption of Computer-Aided Software Engineering (CASE) Tools (ANSI)
 34. IEEE Std 1420.1-1995, IEEE Standard for Information Technology - Software Reuse - Data Model for Reuse Library Interoperability: Basic Interoperability Data Model (BIDM) (ANSI)
 35. IEEE Std 1420.1a-1996, IEEE Supplement to Standard for Information Technology - Software Reuse - Data Model for Reuse Library Interoperability: Asset Certification Framework
-36. IEEE Std 1430-1996, IEEE Guide for Information Technology - Software Reuse - Concept of Operations for Networks of Interoperability Reuse Libraries J-STD-016-1995 (IEEE Std 1498-1995), EIA/IEEE Interim Standard for Information Technology - Software Life Cycle Processes - Software Development Acquirer - Supplier Agreement (Issued for Trial Use).
+36. IEEE Std 1430-1996, IEEE Guide for Information Technology - Software Reuse - Concept of Operations for Networks of Interoperability Reuse Libraries J-STD-016-1995 (IEEE Std 1498-1995), EIA/IEEE Interim Standard for Information Technology - Software Life Cycle Processes - Software Development Acquirer - Supplier Agreement (Issued for Trial Use).  
+
+## Российские стандарты ГОСТ в области ИТ.  
+1. ГОСТ Р ИСО МЭК 12207-99. Информационные технологии. Процессы жизненного цикла программного обеспечения.
+2. ИСО/ТО 10006:1997 (R). Менеджмент качества. Руководство качеством при административном управлении проектами.
+3. ГОСТ 34.ххх. Информационная технология. Комплекс стандартов и руководящих документов на автоматизированные системы.
+4. ГОСТ 19.ххх. Единая система программной документации.
+5. ГОСТ 28806. Качество программных средств. Термины и определения.
+6. ГОСТ 28195. Оценка качества программных средств. Общие положения.
+7. ГОСТ 9126. Информационная технология. Оценка программного продукта. Характеристики качества и руководящие указания по их применению.
+
 
 
 ## <a id = "EX1.5"></a>Задание 1.5 ##
